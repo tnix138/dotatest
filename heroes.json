@@ -1,14 +1,14 @@
-[
+s[
   {
     "id": 1,
     "name": "Axe",
     "role": "Initiator",
-    "imageUrl": "https://cdn.dota.com/heroes/axe.png"
+    "imageUrl": "https://cdn.akamai.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/axe.png"
   },
   {
     "id": 2,
     "name": "Crystal Maiden",
     "role": "Support",
-    "imageUrl": "https://cdn.dota.com/heroes/crystal_maiden.png"
+    "imageUrl": "https://cdn.akamai.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/crystal_maiden.png"
   }
 ]
